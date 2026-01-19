@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tyraty.github.io/static/css/main.e988e30f.css",
-    "main.js": "/tyraty.github.io/static/js/main.976d30d9.js",
+    "main.js": "/tyraty.github.io/static/js/main.388a9265.js",
     "static/js/453.58131a65.chunk.js": "/tyraty.github.io/static/js/453.58131a65.chunk.js",
     "static/media/fa-solid-900.ttf": "/tyraty.github.io/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/fa-brands-400.ttf": "/tyraty.github.io/static/media/fa-brands-400.1815e00441357e01619e.ttf",
@@ -15,11 +15,11 @@
     "static/media/fa-v4compatibility.woff2": "/tyraty.github.io/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/tyraty.github.io/index.html",
     "main.e988e30f.css.map": "/tyraty.github.io/static/css/main.e988e30f.css.map",
-    "main.976d30d9.js.map": "/tyraty.github.io/static/js/main.976d30d9.js.map",
+    "main.388a9265.js.map": "/tyraty.github.io/static/js/main.388a9265.js.map",
     "453.58131a65.chunk.js.map": "/tyraty.github.io/static/js/453.58131a65.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e988e30f.css",
-    "static/js/main.976d30d9.js"
+    "static/js/main.388a9265.js"
   ]
 }
