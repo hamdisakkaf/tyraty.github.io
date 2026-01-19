@@ -1,7 +1,7 @@
 {
   "name": "www.tyraty.com",
   "version": "0.1.0",
-  "homepage": "https://hamdisakkaf.github.io/tyraty-www",
+  "homepage": "https://hamdisakkaf.github.io/tyraty.github.io/",
   "private": true,
   "dependencies": {
     "@commercetools-uikit/flat-button": "^19.1.0",
@@ -162,5 +162,5 @@
     "react-app-rewired": "^2.2.1",
     "react-froala-wysiwyg": "^4.2.2"
   },
-  "repository": "https://github.com/hamdisakkaf/tyraty-www.git"
+  "repository": "https://github.com/hamdisakkaf/tyraty.github.io.git"
 }
