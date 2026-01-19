@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tyraty-www/static/css/main.42a49448.css",
+    "main.js": "/tyraty-www/static/js/main.7c0173e2.js",
+    "static/js/453.58131a65.chunk.js": "/tyraty-www/static/js/453.58131a65.chunk.js",
+    "static/media/fa-solid-900.ttf": "/tyraty-www/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/tyraty-www/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fa-solid-900.woff2": "/tyraty-www/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/Dubai Regular.ttf": "/tyraty-www/static/media/Dubai Regular.8455b3cdc22765532fb6.ttf",
+    "static/media/fa-brands-400.woff2": "/tyraty-www/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/Dubai-Bold-2.otf": "/tyraty-www/static/media/Dubai-Bold-2.900d6bfeeb260f219d9c.otf",
+    "static/media/fa-regular-400.ttf": "/tyraty-www/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/fa-regular-400.woff2": "/tyraty-www/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/fa-v4compatibility.ttf": "/tyraty-www/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/tyraty-www/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/tyraty-www/index.html",
+    "main.42a49448.css.map": "/tyraty-www/static/css/main.42a49448.css.map",
+    "main.7c0173e2.js.map": "/tyraty-www/static/js/main.7c0173e2.js.map",
+    "453.58131a65.chunk.js.map": "/tyraty-www/static/js/453.58131a65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42a49448.css",
+    "static/js/main.7c0173e2.js"
+  ]
+}
